@@ -4,14 +4,16 @@ This repository contains a set of magic helpers for AlpineJS that enable easy XH
 
 ## Installation
 
-Use NPM to install the package:
+Simply add the package to `package.json` like so:
 
 ```bash
-npm install @kingshott/alpine-fetch --save-dev
+    "devDependencies": {
+        "alpine-fetch": "github:artport/alpine-fetch"
+    },
 ```
 
 Then import the script into your application like so:
 
 ```js
-import * from '@kingshott/alpine-fetch';
+import '../../node_modules/artport/dist/alpine-fetch.min.esm.js';
 ```
