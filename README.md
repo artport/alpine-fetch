@@ -15,5 +15,5 @@ Simply add the package to `package.json` like so:
 Then import the script into your application like so:
 
 ```js
-import '../../node_modules/artport/dist/alpine-fetch.min.esm.js';
+import '../../node_modules/alpine-fetch/dist/alpine-fetch.min.esm.js';
 ```
