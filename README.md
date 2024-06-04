@@ -7,9 +7,9 @@ This repository contains a set of magic helpers for AlpineJS that enable easy XH
 Simply add the package to `package.json` like so:
 
 ```bash
-    "devDependencies": {
-        "alpine-fetch": "github:artport/alpine-fetch"
-    },
+"devDependencies": {
+    "alpine-fetch": "github:artport/alpine-fetch"
+},
 ```
 
 Then import the script into your application like so:
