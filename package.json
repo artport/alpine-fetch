@@ -1,10 +1,10 @@
 {
-    "name": "@kingshott/alpine-fetch",
+    "name": "@artport/alpine-fetch",
     "version": "1.0.0",
     "description": "Add magic directives to AlpineJS for easy XHR requests.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mattkingshott/alpine-fetch.git"
+        "url": "https://github.com/artport/alpine-fetch.git"
     },
     "keywords": [
         "alpine",
@@ -16,7 +16,7 @@
     },
     "main": "dist/alpine-fetch.min.js",
     "source": "src/alpine-fetch.js",
-    "author": "Matt Kingshott",
+    "author": "ArtPort",
     "license": "MIT",
     "devDependencies": {
         "@babel/preset-env": "^7.16.4",
