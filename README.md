@@ -8,12 +8,12 @@ Simply add the package to `package.json` like so:
 
 ```bash
 "devDependencies": {
-    "alpine-fetch": "github:artport/alpine-fetch"
+    "@artport/alpine-fetch": "github:artport/alpine-fetch"
 },
 ```
 
 Then import the script into your application like so:
 
 ```js
-import '../../node_modules/alpine-fetch/dist/alpine-fetch.min.esm.js';
+import '../../node_modules/@artport/alpine-fetch/dist/alpine-fetch.min.esm.js';
 ```
